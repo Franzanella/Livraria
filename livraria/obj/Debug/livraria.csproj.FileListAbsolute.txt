@@ -1,0 +1,25 @@
+c:\users\aluno\documents\visual studio 2015\Projects\livraria\livraria\bin\Debug\livraria.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\livraria\livraria\bin\Debug\livraria.exe
+c:\users\aluno\documents\visual studio 2015\Projects\livraria\livraria\bin\Debug\livraria.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\livraria\livraria\obj\Debug\livraria.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\livraria\livraria\obj\Debug\livraria.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\livraria\livraria\obj\Debug\livraria.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\livraria\livraria\obj\Debug\livraria.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\livraria\livraria\obj\Debug\livraria.exe
+c:\users\aluno\documents\visual studio 2015\Projects\livraria\livraria\obj\Debug\livraria.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\livraria\livraria\bin\Debug\MySql.Data.dll
+c:\users\aluno\documents\visual studio 2015\Projects\livraria\livraria\bin\Debug\MySql.Data.xml
+c:\users\aluno\documents\visual studio 2015\Projects\livraria\livraria\obj\Debug\livraria.Form2.resources
+J:\CURSOS\ETEC_FATEC\ETEC\Modulo 3\DESENVOLVIMENTO DE SOFTWARE II\livraria\livraria\bin\Debug\livraria.exe.config
+J:\CURSOS\ETEC_FATEC\ETEC\Modulo 3\DESENVOLVIMENTO DE SOFTWARE II\livraria\livraria\obj\Debug\livraria.exe
+J:\CURSOS\ETEC_FATEC\ETEC\Modulo 3\DESENVOLVIMENTO DE SOFTWARE II\livraria\livraria\obj\Debug\livraria.pdb
+J:\CURSOS\ETEC_FATEC\ETEC\Modulo 3\DESENVOLVIMENTO DE SOFTWARE II\livraria\livraria\bin\Debug\livraria.exe
+J:\CURSOS\ETEC_FATEC\ETEC\Modulo 3\DESENVOLVIMENTO DE SOFTWARE II\livraria\livraria\bin\Debug\livraria.pdb
+J:\CURSOS\ETEC_FATEC\ETEC\Modulo 3\DESENVOLVIMENTO DE SOFTWARE II\livraria\livraria\bin\Debug\MySql.Data.dll
+J:\CURSOS\ETEC_FATEC\ETEC\Modulo 3\DESENVOLVIMENTO DE SOFTWARE II\livraria\livraria\bin\Debug\MySql.Data.xml
+J:\CURSOS\ETEC_FATEC\ETEC\Modulo 3\DESENVOLVIMENTO DE SOFTWARE II\livraria\livraria\obj\Debug\livraria.csprojResolveAssemblyReference.cache
+J:\CURSOS\ETEC_FATEC\ETEC\Modulo 3\DESENVOLVIMENTO DE SOFTWARE II\livraria\livraria\obj\Debug\livraria.Form1.resources
+J:\CURSOS\ETEC_FATEC\ETEC\Modulo 3\DESENVOLVIMENTO DE SOFTWARE II\livraria\livraria\obj\Debug\livraria.Form2.resources
+J:\CURSOS\ETEC_FATEC\ETEC\Modulo 3\DESENVOLVIMENTO DE SOFTWARE II\livraria\livraria\obj\Debug\livraria.Properties.Resources.resources
+J:\CURSOS\ETEC_FATEC\ETEC\Modulo 3\DESENVOLVIMENTO DE SOFTWARE II\livraria\livraria\obj\Debug\livraria.csproj.GenerateResource.Cache
+J:\CURSOS\ETEC_FATEC\ETEC\Modulo 3\DESENVOLVIMENTO DE SOFTWARE II\livraria\livraria\obj\Debug\livraria.Form3.resources
